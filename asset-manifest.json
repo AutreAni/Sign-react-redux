@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SignPage-react-redux/static/css/main.c155cede.chunk.css",
+    "main.js": "/SignPage-react-redux/static/js/main.088a2327.chunk.js",
+    "main.js.map": "/SignPage-react-redux/static/js/main.088a2327.chunk.js.map",
+    "runtime-main.js": "/SignPage-react-redux/static/js/runtime-main.67664fb3.js",
+    "runtime-main.js.map": "/SignPage-react-redux/static/js/runtime-main.67664fb3.js.map",
+    "static/js/2.39c40419.chunk.js": "/SignPage-react-redux/static/js/2.39c40419.chunk.js",
+    "static/js/2.39c40419.chunk.js.map": "/SignPage-react-redux/static/js/2.39c40419.chunk.js.map",
+    "static/js/3.68586adf.chunk.js": "/SignPage-react-redux/static/js/3.68586adf.chunk.js",
+    "static/js/3.68586adf.chunk.js.map": "/SignPage-react-redux/static/js/3.68586adf.chunk.js.map",
+    "index.html": "/SignPage-react-redux/index.html",
+    "static/css/main.c155cede.chunk.css.map": "/SignPage-react-redux/static/css/main.c155cede.chunk.css.map",
+    "static/js/2.39c40419.chunk.js.LICENSE.txt": "/SignPage-react-redux/static/js/2.39c40419.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67664fb3.js",
+    "static/js/2.39c40419.chunk.js",
+    "static/css/main.c155cede.chunk.css",
+    "static/js/main.088a2327.chunk.js"
+  ]
+}
