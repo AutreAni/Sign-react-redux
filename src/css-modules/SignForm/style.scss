@@ -41,6 +41,7 @@
           .button {
             @extend %button;
             background-color: white;
+            cursor: pointer;
         }
         
     }
@@ -101,6 +102,7 @@
         padding:0.8em 1.5em;
         margin-right:1.5em;
         box-shadow: $box-shadow;
+        cursor: pointer;
     
     &:hover {
         background:$background-gradient-reverse;

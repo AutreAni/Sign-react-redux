@@ -96,6 +96,7 @@
 
 .sign__form .btn__wrapper .button {
   background-color: white;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 650px) {
@@ -162,6 +163,7 @@
   padding: 0.8em 1.5em;
   margin-right: 1.5em;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 .sign__btn button:hover {
